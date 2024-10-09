@@ -1,0 +1,1 @@
+# This is a repository of the solutions of some of the weekly exercises for the course 02157 Functional Programming at Denmark's Technical University. See course web page https://www2.compute.dtu.dk/courses/02157/plan.html
